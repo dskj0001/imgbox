@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pages-pay-springboard"],{"54c7":function(n,p,a){"use strict";a.r(p);var s,c,e,l,o=a("f0c5"),u={},r=Object(o["a"])(u,s,c,!1,null,null,null,!1,e,l);p["default"]=r.exports}}]);

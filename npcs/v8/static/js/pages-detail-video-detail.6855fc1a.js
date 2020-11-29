@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pages-detail-video-detail"],{b75e:function(e,l,n){"use strict";n.r(l);var a,t,i,o,p=n("f0c5"),s={},u=Object(p["a"])(s,a,t,!1,null,null,null,!1,i,o);l["default"]=u.exports}}]);
